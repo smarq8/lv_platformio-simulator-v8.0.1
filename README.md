@@ -79,3 +79,5 @@ To build/execute, on PlafomIO tab expand desired env and click target:
 <img src="support/pio_explorer.jpg" width="60%">
 
 Note, for emulator env `upload` also executes compiled binary.
+
+<img src="LVGL simulator v.8.0.1 DEMO.png">
